@@ -1,0 +1,9 @@
+.additional-info{
+    height: 200px;
+}
+
+.additional-info img{
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+}
